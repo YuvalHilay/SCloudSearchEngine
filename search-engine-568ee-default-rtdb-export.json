@@ -1,0 +1,2328 @@
+{
+  "index": {
+    "-NrJx8yEVZIltygRpmw6": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "cart"
+    },
+    "-NrJx990xOL31RuQlKSe": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "new"
+    },
+    "-NrJx9DWrmsKu0h0zRFM": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "alibaba"
+    },
+    "-NrJx9HwxeR1WnsBhVMF": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "cloud"
+    },
+    "-NrJx9MPKYgvQPPtX7OY": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "free"
+    },
+    "-NrJx9Qz8ujdsVOpP0Oq": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "tier"
+    },
+    "-NrJx9VMqGJlhVk3HO7O": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "your"
+    },
+    "-NrJx9Zl9_UkDvJITN2u": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "journey"
+    },
+    "-NrJx9d7xOxiNWVQyE0c": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "starts"
+    },
+    "-NrJx9hXVEaE2wrwNS4H": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "here"
+    },
+    "-NrJx9mDDMhhWvAFIx-5": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "get"
+    },
+    "-NrJx9qg5zmIwwfN0MBn": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "started"
+    },
+    "-NrJx9v6x6qetzwqAwO3": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "for"
+    },
+    "-NrJx9zVQgQ0SIBc6qS9": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "types"
+    },
+    "-NrJxA30oh4OF4gt2PyU": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "offer"
+    },
+    "-NrJxA83TUORIbTLogUN": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "always"
+    },
+    "-NrJxADAHmbNvFH90ele": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "months"
+    },
+    "-NrJxAI8xoV5nLnVfhUG": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "referral"
+    },
+    "-NrJxAORxZ2GTBYU5ZRu": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "join"
+    },
+    "-NrJxATVX1mp3Ll81qEf": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "now"
+    },
+    "-NrJxAZDlEDpmdU19QXt": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "step"
+    },
+    "-NrJxAjaMD_qpgk1bO8M": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "learn"
+    },
+    "-NrJxAo33QeCZDFtrtG0": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "more"
+    },
+    "-NrJxAsX1LfWHeTabXLG": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "terms"
+    },
+    "-NrJxAx1_U-537_Q3hB4": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "conditions"
+    },
+    "-NrJxB0aKX5GC4XgUtzR": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "disclaimer"
+    },
+    "-NrJxB50CVMMjNLIyNEQ": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "please"
+    },
+    "-NrJxB9VsJsQeii_5KD-": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "comprehensive"
+    },
+    "-NrJxBE1OXxOWs4dXgeU": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "suite"
+    },
+    "-NrJxBIQBwAhNc273Ykt": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "global"
+    },
+    "-NrJxBMp2t43yriSB6bd": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "computing"
+    },
+    "-NrJxBRBYU65YML-dSEJ": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "services"
+    },
+    "-NrJxBVV_nakXndRPO_X": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "power"
+    },
+    "-NrJxBZv_j-AHWJ3TLHi": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "business"
+    },
+    "-NrJxBkNkfA7JVCGVv1y": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "payment"
+    },
+    "-NrJxBoir5VpIAduZV54": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "methods"
+    },
+    "-NrJxBt8bOmFo4nLKkJ8": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "support"
+    },
+    "-NrJxBxZ4lA6E1dSlNHj": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "about"
+    },
+    "-NrJxC10u9BJhTteyhBb": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "promotions"
+    },
+    "-NrJxC5Twa42-tAU9b0t": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "explore"
+    },
+    "-NrJxC9xKy4C0FgTXGH9": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "resources"
+    },
+    "-NrJxCEN6Fvm2qKlxCFD": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "products"
+    },
+    "-NrJxCIuHvqdRLiODioq": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "solutions"
+    },
+    "-NrJxCNFmeRC9nXr13fU": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "elastic"
+    },
+    "-NrJxCRjaWbCxZyczkmi": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "compute"
+    },
+    "-NrJxCWDGAffboBxjvE4": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "service"
+    },
+    "-NrJxC_gmddJxqIHb_oE": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "cdn"
+    },
+    "-NrJxCe9nguOhsuTEqug": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "object"
+    },
+    "-NrJxCiX_laeUzGVzETC": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "storage"
+    },
+    "-NrJxCmyYBL-6Tz9zwrr": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "ecommerce"
+    },
+    "-NrJxCr_zS7a5oGX_2Ay": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "web"
+    },
+    "-NrJxCw0LpR1iQISy9Qr": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "hosting"
+    },
+    "-NrJxD-qB_zdooDwtCN4": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "security"
+    },
+    "-NrJxD4pmL2B9HHdFhcj": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "hot"
+    },
+    "-NrJxD9pTdVItWSKDmwv": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "content"
+    },
+    "-NrJxDEs-JwGFW5zIcVP": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "japan"
+    },
+    "-NrJxDJyZBGTiZGiA2T4": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "site"
+    },
+    "-NrJxDOviNBPFBDfRJCv": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "ecs"
+    },
+    "-NrJxDTMeHa4hiJNhPUQ": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "documentation"
+    },
+    "-NrJxDXnAvvT3RHHHx8F": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "how"
+    },
+    "-NrJxDbOP0d2uPh3qEni": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "domains"
+    },
+    "-NrJxDfx3h9-fX4JqU9n": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "software"
+    },
+    "-NrJxDrTxcUSCe6zoea9": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "infrastructure"
+    },
+    "-NrJxDvvAjm7cg2RRlOb": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "learning"
+    },
+    "-NrJxE-NvyVNj5HKT0i3": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "path"
+    },
+    "-NrJxE3n8GgLqgQFpVWO": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "users"
+    },
+    "-NrJxE8aQqg5WXTBQww5": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "recommended"
+    },
+    "-NrJxED1SdX5t5HmB6a7": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "topic"
+    },
+    "-NrJxEHWypBLFMN-QA9H": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "center"
+    },
+    "-NrJxEMzylP5RfGYoYBZ": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "industries"
+    },
+    "-NrJxERTrTpbbH2KqSOY": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "developers"
+    },
+    "-NrJxEW2TT90Ncoj1IDX": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "developing"
+    },
+    "-NrJxE_V1QTBc_S9jwCG": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "tutorials"
+    },
+    "-NrJxEdsDeBz5OKhc_LE": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "php"
+    },
+    "-NrJxEiKNEMc0_nFuYGV": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "browse"
+    },
+    "-NrJxEmii9lBBLoF9gmi": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "letter"
+    },
+    "-NrJxErA1nGBzx90D1CN": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "contact"
+    },
+    "-NrJxEvrYJUvuP1hcuZy": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "sales"
+    },
+    "-NrJxF-I-rQ04RaHXMdE": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "with"
+    },
+    "-NrJxF3jhzTc2vsIbGmV": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "our"
+    },
+    "-NrJxF8IlE-6PNS1haHS": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "team"
+    },
+    "-NrJxFDTd25If0aauU9X": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "touch"
+    },
+    "-NrJxFHqH_SDJqDXScGu": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "development"
+    },
+    "-NrJxFMFjrjcuC7YIsjW": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "professional"
+    },
+    "-NrJxFQoRezH5B4bp11b": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "technical"
+    },
+    "-NrJxFVDY2KYvBZXCjjH": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "open"
+    },
+    "-NrJxFfdM_3bWhCWLZeQ": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "ticket"
+    },
+    "-NrJxFk1Bxtgo1Y7a398": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "and"
+    },
+    "-NrJxFoQSYk4IUVxfthy": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "quick"
+    },
+    "-NrJxFzoGAFlxrlP3wmD": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "help"
+    },
+    "-NrJxG3h4Do4sqdwj256": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ",
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "from"
+    },
+    "-NrJxG8iiqsdQHeQheYA": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "connect"
+    },
+    "-NrJxGDn_acafqDRJL_t": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "report"
+    },
+    "-NrJxGInFkdvK-aOND0L": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "abuse"
+    },
+    "-NrJxGNErjh-sbFBNU1S": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "look"
+    },
+    "-NrJxGRhkzPJffsVUoLK": {
+      "DocIDs": [
+        "-NrFtSj9RsTmHE1zFvnZ"
+      ],
+      "term": "forward"
+    },
+    "-NrJxGW7QrkQFp9ui05G": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "community"
+    },
+    "-NrJxG_Uo_pUaOGfhxPd": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "what"
+    },
+    "-NrJxGdrW91gAvIqZ13b": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "saas"
+    },
+    "-NrJxGiMS4NdH2NBkk4h": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "march"
+    },
+    "-NrJxGmrqTsqshf_9-lj": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "platform"
+    },
+    "-NrJxGrK2kPeak8G2rn9": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "vendors"
+    },
+    "-NrJxGvsl8s6p3ilrdHF": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "deploy"
+    },
+    "-NrJxH-HyH2EccFOTJ9x": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "application"
+    },
+    "-NrJxH3fgZAlrba8ndnf": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "their"
+    },
+    "-NrJxH80lcUT5RnsM-xG": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "own"
+    },
+    "-NrJxHCOgmxTI-5AvO-V": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "servers"
+    },
+    "-NrJxHGpMYnL2zS_FItI": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "customers"
+    },
+    "-NrJxHLDFIYsBxki6YVv": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "can"
+    },
+    "-NrJxHWkMUFmuMh4NpnE": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "order"
+    },
+    "-NrJxHa8QtPKS4lcrDOk": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "the"
+    },
+    "-NrJxHeT_JpMqbeRiDad": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "required"
+    },
+    "-NrJxHitnaIzOgjWQdrA": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "through"
+    },
+    "-NrJxHnKusa36yjZ8S3k": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "internet"
+    },
+    "-NrJxHrfAWm367qpNEES": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "according"
+    },
+    "-NrJxHw1fBXW6ARpBITV": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "actual"
+    },
+    "-NrJxI6QPbPdrPyCJFH-": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "pay"
+    },
+    "-NrJxIAqJpN_s3YL_swi": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "number"
+    },
+    "-NrJxIFDvPb60j0xrFUR": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "ordered"
+    },
+    "-NrJxIQjomiJOkCEsvX1": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "length"
+    },
+    "-NrJxIV5YxEIWLptQg3T": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "time"
+    },
+    "-NrJxIZV1m6k3BkvlgSH": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "obtain"
+    },
+    "-NrJxIcy-VIMrnf1b2bU": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "provided"
+    },
+    "-NrJxIhIyPAGDAieV1Xc": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "has"
+    },
+    "-NrJxIlnmTsEFuNOFS__": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "three"
+    },
+    "-NrJxIqlT2BshC8A54nN": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "paid"
+    },
+    "-NrJxIvyVV93YTPektZd": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "mode"
+    },
+    "-NrJxJ-xoIM0SLqDdoAc": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "are"
+    },
+    "-NrJxJ52g8R5T1p4S6db": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "usually"
+    },
+    "-NrJxJGXtoCUIRokM2YH": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "covers"
+    },
+    "-NrJxJLDjoN8loLFol8R": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "usual"
+    },
+    "-NrJxJPf_6yTjidGjFAY": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "license"
+    },
+    "-NrJxJU0tO4ePBogGNVn": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "maintenance"
+    },
+    "-NrJxJYZrmfY4_0APeFb": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "unified"
+    },
+    "-NrJxJj4QGwPEhDwKMwB": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "them"
+    },
+    "-NrJxJnSwXECEOhSypeM": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "monthly"
+    },
+    "-NrJxJrn78pM2oybZiTb": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "rental"
+    },
+    "-NrJxJwBCLDfgXtS8jUV": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "fee"
+    },
+    "-NrJxK-fi9lYtk5Pmgbd": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "each"
+    },
+    "-NrJxKBH3es7jGeqtxmv": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "not"
+    },
+    "-NrJxKFgwvpw9mdMqC5k": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "only"
+    },
+    "-NrJxKK3jAeGy2O1PtBP": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "suitable"
+    },
+    "-NrJxKORyJMgaYbdmA5y": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "small"
+    },
+    "-NrJxKSqULnxu1n3fP_a": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "enterprises"
+    },
+    "-NrJxKXN0MYMdTdsDkKM": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "all"
+    },
+    "-NrJxKatOGv0rQxmAoeJ": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "sizes"
+    },
+    "-NrJxKfaMt-wH5h95tRD": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "profit"
+    },
+    "-NrJxKk1JQI1oAzj4x-c": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "introduction"
+    },
+    "-NrJxKoWa1b8z0E4e5dP": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "completely"
+    },
+    "-NrJxKswpAqWMhJQHBza": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "innovative"
+    },
+    "-NrJxL3VUs7W4C89_TXh": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "model"
+    },
+    "-NrJxL7tJK64k4LHbKXE": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "that"
+    },
+    "-NrJxLCD5Z7M0Z3apvBk": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "emerged"
+    },
+    "-NrJxLGbu8Qjx7TMg-F1": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "century"
+    },
+    "-NrJxLL1VsokUxrXTOku": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "technology"
+    },
+    "-NrJxLPSgCmNn1QBaDSd": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "maturity"
+    },
+    "-NrJxLTvwHw95b4RYSzh": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "traditional"
+    },
+    "-NrJxLYHzLshmazrnjAV": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "use"
+    },
+    "-NrJxLbjKLO37ucnhEIE": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "licenses"
+    },
+    "-NrJxLgFmNleMmtZrmoR": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "multiple"
+    },
+    "-NrJxLlLZ0YY-b4qyrf8": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "client"
+    },
+    "-NrJxLqKQWpzrlOFu4OV": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "terminals"
+    },
+    "-NrJxLvjA8dYL81XM5C_": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "within"
+    },
+    "-NrJxM-mkSIkSo1lOkXT": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "enterprise"
+    },
+    "-NrJxM4vYZYElrluy0Ak": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "achieve"
+    },
+    "-NrJxM9wprz-Uf7ayhY6": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "defines"
+    },
+    "-NrJxMEtCT0ScmnZMd10": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "delivery"
+    },
+    "-NrJxMJPjn4c_OiLixrh": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "essence"
+    },
+    "-NrJxMNok_P8jN3lUmTm": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "deployment"
+    },
+    "-NrJxMS9KRGutv3mqgcf": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "informatization"
+    },
+    "-NrJxMXDnv81M9ZB3wyD": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "its"
+    },
+    "-NrJxMadHQOfkY55QJwa": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "operation"
+    },
+    "-NrJxMf2RDpQmY5tgKK_": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "management"
+    },
+    "-NrJxMjSK7q1d-YoLYG2": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "changed"
+    },
+    "-NrJxMnyvjStucdMEi6_": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "way"
+    },
+    "-NrJxMsT1Etas5gbzgC5": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "reduces"
+    },
+    "-NrJxMwtOjd56NLaeCG-": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "large"
+    },
+    "-NrJxN0Mo51PZFXDvekC": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "amount"
+    },
+    "-NrJxN4nA-IrSra9jyVs": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "initial"
+    },
+    "-NrJxN9HkLu8XqDztKef": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "investment"
+    },
+    "-NrJxNDjEZSsmbdzHGlR": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "local"
+    },
+    "-NrJxNIF1MvaHSPXVXVo": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "further"
+    },
+    "-NrJxNMhON01fx817Bvf": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "highlights"
+    },
+    "-NrJxNRCJeyrZnpmGwwy": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "attributes"
+    },
+    "-NrJxNb_nihlbNatKYgy": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "information"
+    },
+    "-NrJxNgAS1q6YdaZruuC": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "may"
+    },
+    "-NrJxNkdQiPHe1GR6CDk": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "become"
+    },
+    "-NrJxNp3EjBkrzeoj8cK": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "mainstream"
+    },
+    "-NrJxNtYlNLyInQHdkhI": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "market"
+    },
+    "-NrJxNy09RXQ0fYn5RD-": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "features"
+    },
+    "-NrJxO1R8ev3pjDTXFI5": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "characteristics"
+    },
+    "-NrJxO5y8c8ATaGzCqrX": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "one"
+    },
+    "-NrJxOAZsVjvwE2_no3y": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "provide"
+    },
+    "-NrJxOEvMA9izXzimmM5": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "form"
+    },
+    "-NrJxOJPymYG4WTnH2Cc": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "browsers"
+    },
+    "-NrJxONyXpQRO-BBFqz5": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "program"
+    },
+    "-NrJxOSO50QEjNDDT-Eg": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "makes"
+    },
+    "-NrJxOWp9dItVrRu7WC6": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "applications"
+    },
+    "-NrJxOaGEFqkJON_mPd-": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "typical"
+    },
+    "-NrJxOegHdZsxViVTxRH": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "other"
+    },
+    "-NrJxOjl8cNHUHDDG5W_": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "because"
+    },
+    "-NrJxOoosp77XawO7AqJ": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "greatly"
+    },
+    "-NrJxOtswHxMCRZAa76C": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "shortens"
+    },
+    "-NrJxOytxx1_hd04YhGb": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "space"
+    },
+    "-NrJxP2yVANPBQSFBQca": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "distance"
+    },
+    "-NrJxP86c_vheaInQnJg": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "between"
+    },
+    "-NrJxPDD2xO2lcLQrx7P": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "marketing"
+    },
+    "-NrJxPHcr8FmnBHMrD-c": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "very"
+    },
+    "-NrJxPM8Fnn3A6HAKUk3": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "different"
+    },
+    "-NrJxPQi8qvR6IIuMEbU": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "provides"
+    },
+    "-NrJxPVDMTd018gF6muc": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "hundreds"
+    },
+    "-NrJxPZixNTkSqc7_XF1": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "known"
+    },
+    "-NrJxPd8yh_LvPitOIXv": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "based"
+    },
+    "-NrJxPh_DfpKr9A3aRqw": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "set"
+    },
+    "-NrJxPm4I7U8uucQq86Q": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "standard"
+    },
+    "-NrJxPqdnOYMDo4tLEWw": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "this"
+    },
+    "-NrJxPvMB-8l3K7UtZWy": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "requires"
+    },
+    "-NrJxPzpHL_E4dDEk1vH": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "isolation"
+    },
+    "-NrJxQ3DFr-o-FTcXsad": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "data"
+    },
+    "-NrJxQ7Zswe3aCXfRtGE": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "configuration"
+    },
+    "-NrJxQBxp2wZMZQwRBS9": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "ensure"
+    },
+    "-NrJxQGLbbaBAPLURosE": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "privacy"
+    },
+    "-NrJxQRlljAIDKdecPeD": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "well"
+    },
+    "-NrJxQWJlftYU_AraTi3": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "personalized"
+    },
+    "-NrJxQ_wfWhUzGq7xNud": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "needs"
+    },
+    "-NrJxQeYFYkQ9lxqo90y": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "such"
+    },
+    "-NrJxQj2lGcF8Xa3N0L0": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "since"
+    },
+    "-NrJxQnSj1Wf-DTCSLEb": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "supports"
+    },
+    "-NrJxQyvmTRI65zJVb__": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "tenants"
+    },
+    "-NrJxR2G4a6_DGkxJU_e": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "same"
+    },
+    "-NrJxR6qfhBddKdc4_PC": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "tenant"
+    },
+    "-NrJxRBGoRl_UrDiVOiG": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "many"
+    },
+    "-NrJxRFliGf0l5iKDOw8": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "poses"
+    },
+    "-NrJxRKGhHp6zWkXsAJZ": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "big"
+    },
+    "-NrJxROp87harLYlc2H7": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "challenge"
+    },
+    "-NrJxRTEAwpAc1UY8kTq": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "scalability"
+    },
+    "-NrJxRXfJilI95_-44hb": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "optimizing"
+    },
+    "-NrJxRb61rv9PSXkdnDS": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "performance"
+    },
+    "-NrJxRgMAlwnoc01DtKC": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "operating"
+    },
+    "-NrJxRlR-BoVXpKiYqW4": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "costs"
+    },
+    "-NrJxRqVGqKzKeWJl4Cr": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "core"
+    },
+    "-NrJxRvfLGN8lbAJ314_": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "task"
+    },
+    "-NrJxS-oq5MipeXsfyTf": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "used"
+    },
+    "-NrJxS4ozIDs2kQgjY5k": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "enables"
+    },
+    "-NrJxS9mStQoEcUCPwbZ": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "carried"
+    },
+    "-NrJxSEDqVgxTwGPn1cT": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "issues"
+    },
+    "-NrJxSI_qo1YIcSHPx-X": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "must"
+    },
+    "-NrJxSN6lTNtuxSSrLS4": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "signing"
+    },
+    "-NrJxSYY4IBid_wfrwit": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "measurement"
+    },
+    "-NrJxSbxehcRte1cVJZx": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "guarantee"
+    },
+    "-NrJxSgO7njkmVATDstr": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "online"
+    },
+    "-NrJxSkotmi6e2TrFIwg": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "collection"
+    },
+    "-NrJxSpE6qeSq3xFmMre": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "while"
+    },
+    "-NrJxStgoHHeC1tSn17q": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "these"
+    },
+    "-NrJxSy3whkSA5azKjnq": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "problems"
+    },
+    "-NrJxT8SUch8fr0kd623": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "considered"
+    },
+    "-NrJxTCtBJmeQgDtJeJl": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "scalable"
+    },
+    "-NrJxTHKBaMrQvz7pYAZ": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "means"
+    },
+    "-NrJxTLlnRC5--ENsGCg": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "maximizing"
+    },
+    "-NrJxTQNhMVDbEK6sBeK": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "concurrency"
+    },
+    "-NrJxTUi-6vyXGh2Hs_n": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "system"
+    },
+    "-NrJxTZ8yqpRTCF1fNLv": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "persistence"
+    },
+    "-NrJxTcd9aCnFsvylybl": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "resource"
+    },
+    "-NrJxTh3KkBm7C9mJDWv": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "using"
+    },
+    "-NrJxTlSYKHD-nxhCIOv": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "stateless"
+    },
+    "-NrJxTwphRA__FcKdXXu": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "pools"
+    },
+    "-NrJxU0agmDpZugdnMG5": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "share"
+    },
+    "-NrJxU54N4ChdSb1dcNC": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "key"
+    },
+    "-NrJxU9WkwE0hDZ4VoIO": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "lines"
+    },
+    "-NrJxUDuBYAOcNq20Lz6": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "database"
+    },
+    "-NrJxUIOsTwueVThEVo-": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "caching"
+    },
+    "-NrJxUMqm_F6qFWF9cKh": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "reference"
+    },
+    "-NrJxURGQ_dKa5Z3mtLL": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "partitioning"
+    },
+    "-NrJxUVmtnjoacJUf6mE": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "advantages"
+    },
+    "-NrJxU_KWuomu6BklWft": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "related"
+    },
+    "-NrJxUe0-vyJVll45EXF": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "blog"
+    },
+    "-NrJxUixyoli6_PUnx1z": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "value"
+    },
+    "-NrJxUnvtC79vC5Ls7hU": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "warehouse"
+    },
+    "-NrJxUt7GeM_aTbqNY94": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "today"
+    },
+    "-NrJxUy0iIhAuC4feNgx": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "face"
+    },
+    "-NrJxV1yDmZ3HQYeyaRs": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "challenges"
+    },
+    "-NrJxV6uyV_mn7YrXOtc": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "construction"
+    },
+    "-NrJxVBwGp3CrWD-s0nm": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "platforms"
+    },
+    "-NrJxVNOE35lVmmO0SAu": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "during"
+    },
+    "-NrJxVRr-udJxFyrE5r2": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "digital"
+    },
+    "-NrJxVWNBo_ZW1PN8Wxq": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "evolution"
+    },
+    "-NrJxV_tv3AtD_NhIfj_": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "modern"
+    },
+    "-NrJxVeMc9Mp_4N8xg7j": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "warehouses"
+    },
+    "-NrJxViuN4TeAkVt9IRz": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "possible"
+    },
+    "-NrJxVnTnN8V5s03JAhE": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "solve"
+    },
+    "-NrJxVrsvUDciVnUHjJM": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "product"
+    },
+    "-NrJxVwMxeADWrS3-cJg": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "apsara"
+    },
+    "-NrJxW-lYXX3RAstnLtf": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "maxcompute"
+    },
+    "-NrJxW47w3MgMCMWTTey": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "been"
+    },
+    "-NrJxW8VT-8ZIwZLl27b": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "widely"
+    },
+    "-NrJxWCsnY2pT3ikDu0F": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "trusted"
+    },
+    "-NrJxWHIO95qmLnnxFnc": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "article"
+    },
+    "-NrJxWLlv56eSQk2EszN": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "describes"
+    },
+    "-NrJxWQRQHvYpgedtdZz": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "capabilities"
+    },
+    "-NrJxWUxrm9wBALMcBOL": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "values"
+    },
+    "-NrJxWZODVQxxv6vw707": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "agility"
+    },
+    "-NrJxWcla8JpPqX8Bu5X": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "lower"
+    },
+    "-NrJxWh9KAFUY1OsRs9x": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "total"
+    },
+    "-NrJxWlaDGwM5kCAdyCn": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "cost"
+    },
+    "-NrJxWq3qB9NDGpzWrwz": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "ownership"
+    },
+    "-NrJxWuVB1l3fbiqj5i0": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "analysis"
+    },
+    "-NrJxWyvHgaJjOvxrThk": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "following"
+    },
+    "-NrJxX2Lh4_svAz5uT2p": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "video"
+    },
+    "-NrJxX6p3BZJuO2WWVfb": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "speech"
+    },
+    "-NrJxXBCClfSXwrluhwa": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "intelligent"
+    },
+    "-NrJxXF_9raDNuRw1fh2": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "expert"
+    },
+    "-NrJxXJwa0cqFkOhhhgB": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "quotes"
+    },
+    "-NrJxXOLp8DpKQ25ICHj": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "materials"
+    },
+    "-NrJxXShEwBweDYbuSr8": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "powerpoint"
+    },
+    "-NrJxXXC1d6N788fH3aJ": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "continuous"
+    },
+    "-NrJxXapjmq25j0J19V8": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "definition"
+    },
+    "-NrJxXg7Wj_1xzhoO61-": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "collects"
+    },
+    "-NrJxXl2i6psxyRZPlua": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "centralized"
+    },
+    "-NrJxXq0HldbjLAH-gSb": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "outlet"
+    },
+    "-NrJxXvAoJy112pDtKwY": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "methodology"
+    },
+    "-NrJxY-CWDuxVh2EjXam": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "best"
+    },
+    "-NrJxY4CuanG_oW1PslS": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "practices"
+    },
+    "-NrJxY9B-ZLYOlmi8mb8": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "manual"
+    },
+    "-NrJxYDZm6McBzWyAvBs": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "affected"
+    },
+    "-NrJxYP-o_qUNk38WcCL": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "where"
+    },
+    "-NrJxY_OWJGzVkJdPG8C": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "logical"
+    },
+    "-NrJxYdoIaD6oPaq3z43": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "physical"
+    },
+    "-NrJxYiFe493l7zMzDb_": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "integrated"
+    },
+    "-NrJxYmiYwD3q5Lln07u": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "closely"
+    },
+    "-NrJxYrBhKN107B-Pl80": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "into"
+    },
+    "-NrJxYvhQ9D7WrVZfK49": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "final"
+    },
+    "-NrJxZ-D17R5-kl2BZK3": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "need"
+    },
+    "-NrJxZ3dKikJzPDeMEKN": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "accelerator"
+    },
+    "-NrJxZ81GV0gI_OR6tq1": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "helps"
+    },
+    "-NrJxZCTiYXFFu6AheDX": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "ecosystem"
+    },
+    "-NrJxZGwgCGE_NyOcA5E": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "partners"
+    },
+    "-NrJxZSjQpefZpbz3MLd": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "build"
+    },
+    "-NrJxZXN2UrIYDA2U4He": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "launch"
+    },
+    "-NrJxZany_8Fes5LTYFh": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "travel"
+    },
+    "-NrJxZfQKOKcepGlGwPS": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "quickly"
+    },
+    "-NrJxZjmFndpLQOpMHXt": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "reach"
+    },
+    "-NrJxZo9IeCAyiVlHVnt": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "centers"
+    },
+    "-NrJxZsajZlju63pJqVZ": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "commercial"
+    },
+    "-NrJxZx-vVO42UeXfoaF": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "capability"
+    },
+    "-NrJx_0L7e6UCalJjxKt": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "solution"
+    },
+    "-NrJx_4kALkeRjwHTOUc": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "efficiently"
+    },
+    "-NrJx_98URpC_GleDZbo": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "develop"
+    },
+    "-NrJx_DTOpcHLytORFLA": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "adopt"
+    },
+    "-NrJx_Hzzl2hl-mYRuI0": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "increase"
+    },
+    "-NrJx_TZbi0BI41WduGK": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "read"
+    },
+    "-NrJx_Y6eXS4mQRRzNVH": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "previous"
+    },
+    "-NrJx_bcVki5-K6aqcjd": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "springfu"
+    },
+    "-NrJx_gcAhSZOjeWrTdQ": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "solves"
+    },
+    "-NrJx_lYSyec_KPI4LMp": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "slow"
+    },
+    "-NrJx_qUzeO9AHuDAEks": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "spring"
+    },
+    "-NrJxa0t5N8z9mS6pkw_": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "startup"
+    },
+    "-NrJxa5os8iAJizDcJ_D": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "next"
+    },
+    "-NrJxaAwyYznEhAka2lw": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "network"
+    },
+    "-NrJxaFOvRrZ9pRqL9_U": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "part"
+    },
+    "-NrJxaJwHRZRKM-Yq69v": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "benefits"
+    },
+    "-NrJxaORIQxwOatTqQrW": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "clouder"
+    },
+    "-NrJxaTG9eQoCHyP9u7-": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "posts"
+    },
+    "-NrJxaXjHHWxGS7mfM5J": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "followers"
+    },
+    "-NrJxabAn9tnnQMpZ4ky": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "you"
+    },
+    "-NrJxafkpgxxGdpgY5yq": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "also"
+    },
+    "-NrJxak64dfmb9IIbwIA": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "like"
+    },
+    "-NrJxaoYOzD8_o31_kP6": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "native"
+    },
+    "-NrJxasuBi2J6SUUm84U": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "february"
+    },
+    "-NrJxaxEX14tr66WfOj2": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "iain"
+    },
+    "-NrJxb7YgEYaT8m6HGUU": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "ferguson"
+    },
+    "-NrJxbC2hLWIa29UXLKy": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "january"
+    },
+    "-NrJxbGbF5Z0xWO9TruS": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "december"
+    },
+    "-NrJxbL4nvlzpWUDerr7": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "july"
+    },
+    "-NrJxbPkByoP5MMMFxIg": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "comments"
+    },
+    "-NrJxbUEO9dGE_sB6ILT": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "incountry"
+    },
+    "-NrJxbYiK7bd2d76mccz": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "expand"
+    },
+    "-NrJxbcAUqWMZTIWOE-N": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "china"
+    },
+    "-NrJxbgXUV2MdubxQkid": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "complying"
+    },
+    "-NrJxbkv9u4NuiG1joFk": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "applicable"
+    },
+    "-NrJxbpLFmRmPLlp4YKB": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "rules"
+    },
+    "-NrJxbtt_IhBJFjG9qCz": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "regulations"
+    },
+    "-NrJxbyJ-34HwD7v2OTQ": {
+      "DocIDs": [
+        "-NrFtSncG1c1qN8ncH7B"
+      ],
+      "term": "see"
+    }
+  },
+  "pages": {
+    "-NrFtSj9RsTmHE1zFvnZ": {
+      "description": "Try 50+ free tier products and enjoy 60% in renewal discount",
+      "link": "https://www.alibabacloud.com/free",
+      "title": "Start for Free"
+    },
+    "-NrFtSncG1c1qN8ncH7B": {
+      "link": "https://www.alibabacloud.com/blog/597477?spm=a3c0i.23458820.2359477120.13.1d9a7d3fxoVnYm"
+    }
+  }
+}

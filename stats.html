@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Search Engine Statistics</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="draft.js"></script>
+  <style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(
+  287.56deg,
+  rgba(30, 233, 221, 0.7099999785) 100%,
+  rgba(72, 255, 244, 0.6979166865) 128.13%,
+  rgba(98, 255, 245, 0.4235678911) 142.19%,
+  rgba(91, 255, 245, 0.4010416865)
+);
+
+      /* Set default zoom level */
+      zoom: 80%;
+  }
+    h1 {
+      text-align: center;
+    }
+    .container {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+    .chart {
+      margin-right: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Search Engine Statistics</h1>
+  <div class="container">
+    <div class="chart">
+      <canvas id="searchesByWordChart" width="400" height="400"></canvas>
+    </div>
+    <div class="chart">
+      <canvas id="searchesByUserChart" width="400" height="400"></canvas>
+    </div>
+  </div>
+  <div class="container">
+    <div class="chart">
+      <canvas id="commonWordsChart" width="400" height="400"></canvas>
+    </div>
+    <div class="chart">
+      <canvas id="wordFrequencyChart" width="400" height="400"></canvas>
+    </div>
+  </div>
+
+  <script>
+    // Placeholder data for demonstration
+    const searchData = {
+      searchesByWord: {
+        SAAS: 100,
+        IAAS: 150,
+        PAAS: 120,
+        PublicCloud: 80,
+        PrivateCloud: 90
+      },
+      searchesByUser: {
+        User1: 50,
+        User2: 70,
+        User3: 30,
+        User4: 90,
+        User5: 110
+      },
+      commonWords: {
+        "Cloud": 300,
+        "Service": 250,
+        "Data": 200,
+        "Security": 180,
+        "Platform": 150
+      },
+      wordFrequency: [
+        { word: "Cloud", frequency: 300 },
+        { word: "Service", frequency: 250 },
+        { word: "Data", frequency: 200 },
+        { word: "Security", frequency: 180 },
+        { word: "Platform", frequency: 150 }
+      ]
+    };
+
+    // Function to convert object to array for chart data
+    function objectToArray(obj) {
+      return Object.keys(obj).map(key => ({ label: key, value: obj[key] }));
+    }
+
+    // Function to get data for word frequency chart
+    function getWordFrequencyChartData(data) {
+      return data.map(item => item.frequency);
+    }
+
+    // Function to create charts
+    function createCharts() {
+      // Chart configuration
+      const config = {
+        type: 'bar',
+        data: {
+          labels: objectToArray(searchData.searchesByWord).map(item => item.label),
+          datasets: [{
+            label: 'Number of Searches',
+            data: objectToArray(searchData.searchesByWord).map(item => item.value),
+            backgroundColor: 'rgba(255, 99, 132, 0.2)',
+            borderColor: 'rgba(255, 99, 132, 1)',
+            borderWidth: 1
+          }]
+        },
+        options: {
+          scales: {
+            y: {
+              beginAtZero: true
+            }
+          }
+        }
+      };
+
+      // Create Charts
+      var searchesByWordCtx = document.getElementById('searchesByWordChart').getContext('2d');
+      new Chart(searchesByWordCtx, config);
+
+      // Searches By User
+      const searchesByUserConfig = {
+        type: 'pie',
+        data: {
+          labels: objectToArray(searchData.searchesByUser).map(item => item.label),
+          datasets: [{
+            label: 'Number of Searches',
+            data: objectToArray(searchData.searchesByUser).map(item => item.value),
+            backgroundColor: [
+              'rgba(255, 99, 132, 0.2)',
+              'rgba(54, 162, 235, 0.2)',
+              'rgba(255, 206, 86, 0.2)',
+              'rgba(75, 192, 192, 0.2)',
+              'rgba(153, 102, 255, 0.2)',
+            ],
+            borderColor: [
+              'rgba(255, 99, 132, 1)',
+              'rgba(54, 162, 235, 1)',
+              'rgba(255, 206, 86, 1)',
+              'rgba(75, 192, 192, 1)',
+              'rgba(153, 102, 255, 1)',
+            ],
+            borderWidth: 1
+          }]
+        },
+        options: {
+          scales: {
+            y: {
+              beginAtZero: true
+            }
+          }
+        }
+      };
+
+      var searchesByUserCtx = document.getElementById('searchesByUserChart').getContext('2d');
+      new Chart(searchesByUserCtx, searchesByUserConfig);
+
+      // Common Words
+      const commonWordsConfig = {
+        type: 'doughnut',
+        data: {
+          labels: objectToArray(searchData.commonWords).map(item => item.label),
+          datasets: [{
+            label: 'Word Frequency',
+            data: objectToArray(searchData.commonWords).map(item => item.value),
+            backgroundColor: [
+              'rgba(255, 99, 132, 0.2)',
+              'rgba(54, 162, 235, 0.2)',
+              'rgba(255, 206, 86, 0.2)',
+              'rgba(75, 192, 192, 0.2)',
+              'rgba(153, 102, 255, 0.2)',
+            ],
+            borderColor: [
+              'rgba(255, 99, 132, 1)',
+              'rgba(54, 162, 235, 1)',
+              'rgba(255, 206, 86, 1)',
+              'rgba(75, 192, 192, 1)',
+              'rgba(153, 102, 255, 1)',
+            ],
+            borderWidth: 1
+          }]
+        },
+        options: {
+          scales: {
+            y: {
+              beginAtZero: true
+            }
+          }
+        }
+      };
+
+      var commonWordsCtx = document.getElementById('commonWordsChart').getContext('2d');
+      new Chart(commonWordsCtx, commonWordsConfig);
+
+      // Word Frequency
+      const wordFrequencyConfig = {
+        type: 'bar',
+        data: {
+          labels: searchData.wordFrequency.map(item => item.word),
+          datasets: [{
+            label: 'Word Frequency',
+            data: getWordFrequencyChartData(searchData.wordFrequency),
+            backgroundColor: 'rgba(255, 99, 132, 0.2)',
+            borderColor: 'rgba(255, 99, 132, 1)',
+            borderWidth: 1
+          }]
+        },
+        options: {
+          scales: {
+            y: {
+              beginAtZero: true
+            }
+          }
+        }
+      };
+
+      var wordFrequencyCtx = document.getElementById('wordFrequencyChart').getContext('2d');
+      new Chart(wordFrequencyCtx, wordFrequencyConfig);
+    }
+
+    // Create the charts when the page loads
+    document.addEventListener("DOMContentLoaded", function() {
+      createCharts();
+    });
+  </script>
+
+        
+</body>
+</html>
